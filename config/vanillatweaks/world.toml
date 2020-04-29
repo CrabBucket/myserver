@@ -1,0 +1,11 @@
+
+#Dynamic changes in the world
+[world]
+	#No of minimum ticks after auto-planting occurs.
+	#Range: > 0
+	minTicks = 75
+	#Want seeds to auto-plant themselves when broken?
+	selfPlanting = false
+	#Is realistic predator/prey relationships activated?
+	realisticRelationship = true
+
